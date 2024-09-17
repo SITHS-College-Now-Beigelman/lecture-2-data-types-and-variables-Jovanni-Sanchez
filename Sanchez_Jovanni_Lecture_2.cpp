@@ -33,9 +33,7 @@ int main(){
 
     /* Comparing ASCII characters */
 
-    char letterZ = 'Z';
-
-    cout << letterZ << " > " << singleLetter << "\n";
+    cout << 'Z' << " > " << singleLetter << "\n";
 
     /* Evaluating mixed equations */
 
