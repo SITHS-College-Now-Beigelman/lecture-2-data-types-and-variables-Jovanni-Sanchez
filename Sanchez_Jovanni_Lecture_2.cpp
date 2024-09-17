@@ -45,3 +45,17 @@ int main(){
 
     return 0;
 }
+
+/*
+int: 24
+float: 0.5
+double: 66.6
+char: A
+bool: 1
+string: WOW! :O
+100 inch(es) = 8 feet (foot) and 4 inch(es)
+Z > A = 0
+2 + 3.5 = 5.5
+6 / 4 + 3.9 = 4.9
+5.4 * 2 - (13.6 + 18 / 2) = -11.8
+*/
