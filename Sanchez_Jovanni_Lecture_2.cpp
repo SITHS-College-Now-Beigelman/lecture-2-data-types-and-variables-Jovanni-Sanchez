@@ -24,6 +24,7 @@ int main(){
     cout << "string: " << myFinalWords  << "\n";
 
     /* Arithmetic Operators (From Slide 37) */
+    /* Slide 37 defined inches as 100 after declaring the int, but i made it 1 line */
 
     int inches = 100;
 
@@ -32,8 +33,9 @@ int main(){
     cout << inches % 12 << " inch(es)" << endl;
 
     /* Comparing ASCII characters */
+    /* This took 2 whole days T-T */
 
-    cout << 'Z' << " > " << singleLetter << "\n";
+    cout << "Z > A = " << ('Z'<singleLetter) << "\n";
 
     /* Evaluating mixed equations */
 
